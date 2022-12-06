@@ -1,1 +1,1 @@
-# Angular-Pipes
+# Angular
